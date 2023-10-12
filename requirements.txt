@@ -1,0 +1,7 @@
+flask
+flask-smorest
+python-dotenv
+sqlachemy
+flask-sqlalchemy
+Flask-JWT-Extended
+flask-migrate
