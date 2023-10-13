@@ -1,7 +1,7 @@
 flask
 flask-smorest
 python-dotenv
-sqlachemy
+sqlalchemy
 flask-sqlalchemy
 Flask-JWT-Extended
 flask-migrate
